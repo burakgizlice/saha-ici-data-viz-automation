@@ -9,3 +9,20 @@ This gave me some headaches, and I decided to find a solution that is helpful fo
 ### My Solution:
 
 I decided to test with .svg files; I think they are a great fit. I can design custom layouts in figma, and then use the elements in the svg to adjust widths, colors, dynamic texts, etc. with python.
+
+from now on, I will be documenting the process of development.
+
+---
+
+# Day1 - October 1st, 2025:
+
+### Determining the Aspect Ratio for Visuals: 
+![screenshot from YT Saha Ici](./media/image.png) 
+
+I collected a frame from the YT channel, then determined the aspect ratio that I will be working with. As you can see, previous design does not handle this and it has an unwanted view.
+
+The ratio I will be working with is: 1015x570
+
+### Playing with .svg Files
+
+
